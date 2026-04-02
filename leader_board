@@ -1,0 +1,23 @@
+<div id="vacations-leaderboard" class="second-leaderboard">
+<div class="row" style="display: block;">
+<div class="img-container col-xs-12 visible-xs"><img class="img-responsive" style="width: 100%;" src="/assets/wj-web/images/2019/wj/lgw-leaderboard-500x300.jpg" alt="London"></div>
+<div class="col-xs-12">
+<div class="row vacations-content">
+<div class="col-xs-12">
+<div>
+<h3 class="white-heading">Europe is on sale</h3>
+<p class="white-subheading">Book now with great sale fares to WestJet's European destinations, for travel now through Fall 2019.&nbsp;</p>
+</div>
+</div>
+<div class="col-xs-12 leaderboard-cta at-element-marker"><a class="leaderboard-button text-leader at-element-click-tracking" href="/en-ca/book-trip/deals?i_cid=wj:wj-hp:banner-1:ss-wj:sale-04052019" style="align-content: center; text-decoration:underline !important;">Book now</a>
+
+<style>
+.text-leader:hover {
+color:#CBA600 !important;
+text-decoration:none !important;
+}
+</style></div>
+</div>
+</div>
+</div>
+</div>
