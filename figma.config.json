@@ -1,6 +1,6 @@
 {
   "codeConnect": {
     "include": ["src/**/*.ts", "src/**/*.vue"],
-    "parser": "vue"
+    "parser": "custom"
   }
 }
